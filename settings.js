@@ -36,15 +36,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94764020947'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['94717543279'] //ur owner number
+global.ownername = "𝙈𝘿 -𝙒 ᵖ 𝙗𝙤𝙩" //ur owner name
 global.ytname = "Wp grp" //ur yt chanel name
 global.socialm = "piyu_beA" //ur github or insta name
 global.location = "Sri Lanka, uva, monaragala" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94764020947']
-global.ownertag = '94764020947' //ur tag number
+global.owner = ['94717543279']
+global.ownertag = '94717543279' //ur tag number
 global.botnumber = '94717543279' //Add your Bot Number For Log
 global.botname = '*piyu_beA' //ur bot name
 global.ig = "https://chat.whatsapp.com/DvgNtrv6KVKIRXJGjJo136" //your theme url which will be displayed on whatsapp
@@ -56,10 +56,10 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "*piyu_beA" //ur sticker watermark packname
 global.author = "*piyu_beA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x *piyu_beA"
-global.aliveimg ="https://ibb.co/YfHKFMt"
-global.allmenuimg ="https://ibb.co/YfHKFMt"
-global.welcomeimg= "https://ibb.co/YfHKFMt"
-global.gbyeimg = "https://ibb.co/YfHKFMt"
+global.aliveimg ="https://ibb.co/fq8dd9Khttps://ibb.co/bJypdkW"
+global.allmenuimg ="https://ibb.co/fq8dd9Khttps://ibb.co/bJypdkW"
+global.welcomeimg= "https://ibb.co/fq8dd9Khttps://ibb.co/bJypdkW"
+global.gbyeimg = "https://ibb.co/fq8dd9Khttps://ibb.co/bJypdkW"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
